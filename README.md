@@ -1,4 +1,4 @@
-# CS360
+# Mobile Inventory Management System
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 For this course, I developed an Android application that would allow users to interface with a database containing a warehouse's inventory data. This app required a user login system, a screen that displayed contents of a database, and SMS notifications for items running out of stock. This app was designed to address the need for a simple, lightweight inventory management system.
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
